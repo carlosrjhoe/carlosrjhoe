@@ -1,8 +1,6 @@
 # Olá, eu sou Carlos-Roberto
 
-Com uma sólida experiência em liderança e operação de sistemas industriais, estou em transição de carreira para a área de Tecnologia da Informação (TI) para explorar minha paixão pelo desenvolvimento de software e qualidade de sistemas. Graduado em Análise e Desenvolvimento de Sistemas pela UniFBV Wyden e atualmente cursando a Pós-Graduação em Testes Ágeis na CESAR School, estou adquirindo habilidades em metodologias ágeis e práticas de teste para impulsionar minha trajetória profissional.
-
-Dedicado, proativo e disciplinado, sou um profundo entusiasta da aprendizagem autodirigida e contínua. Comunicativo e adaptável em diversos ambientes, possuo experiência em liderança e execução de atividades, controle de qualidade e operação de sistemas. Estou buscando oportunidades desafiadoras como Analista de Testes, QA ou Engenheiro de Testes de Software, onde posso aplicar minha experiência prática e conhecimento técnico para contribuir efetivamente para o sucesso de projetos de TI.
+Sou um profissional em transição de carreira para a área de Qualidade de Software (QA), com uma trajetória acadêmica sólida: graduado em Análise e Desenvolvimento de Sistemas, pós-graduado em Testes Ágeis de Software e atualmente cursando Engenharia de Software.
 
 Estou entusiasmado para embarcar nesta nova fase da minha carreira e estou aberto a oportunidades que me permitam crescer profissionalmente e agregar valor à equipe.
 
